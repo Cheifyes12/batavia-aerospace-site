@@ -56,9 +56,9 @@
     "description": "G8 is a Level 2 rocket designed to fly on mid-to-upper L-class solid motors. The team's first fully fiberglass build — validating composite construction methods and pushing performance toward Mach 0.8 at approximately 6,500 feet, paving the way for future high dynamic-pressure vehicles.",
     "designNotes": "Full fiberglass construction: fincan, airframe, AV-bay, and nosecone.",
     "images": [
-      "assets/images/rocketry/g8-kellen-field.png",
-      "assets/images/rocketry/g8-cad-iso1.png",
-      "assets/images/rocketry/g8-cad-side1.png"
+      "assets/images/rocketry/g8-cad-iso2.png",
+      "assets/images/rocketry/g8-cad-side2.png",
+      "assets/images/rocketry/g8-build-kitchen.png"
     ],
     "flightData": [],
     "meta": [
