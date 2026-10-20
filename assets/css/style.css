@@ -405,3 +405,9 @@ footer {
   .project-meta, .fd-grid { grid-template-columns: 1fr; }
   .rc-goals { grid-template-columns: 1fr; }
 }
+
+/* human <3 */
+.contact-email {
+   position: relative;
+   z-index: 99;
+}
