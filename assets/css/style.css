@@ -407,7 +407,7 @@ footer {
 }
 
 /* human <3 */
-.contact-email {
+#contact-email {
    position: relative;
    z-index: 99;
 }
