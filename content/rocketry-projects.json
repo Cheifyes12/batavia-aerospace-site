@@ -84,6 +84,31 @@
     "cadLink": {
   "label": "View G8 CAD Model",
   "url": "https://a360.co/4kkyFX4"
+},
+{
+    "id": "rk-1",
+    "name": "RK1",
+    "status": "progress",
+    "statusLabel": "Planned",
+    "description": "RK1 is a Level 3 rocket designed to fly on 75mm L-M motors. Following the G8 build, RK1 utilizes the same footprint with a 75mm motor mount upgrade.",
+    "designNotes": "Fully fiberglass, fully redundant, dual sep, dual deploy",
+    "images": [
+      "assets/images/rocketry/g8-cad-side2.png",
+      "assets/images/rocketry/g8-cad-iso2.png",
+      "assets/images/rocketry/g8-build-kitchen.png"
+    ],
+    "flightData": [],
+    "meta": [
+      { "label": "Launch Date",    "value": "Spring 2027"  },
+      { "label": "Location",       "value": "QCRC, Princeton IL"},
+      { "label": "Target Altitude","value": "~15,500 ft"         },
+      { "label": "Peak Speed",     "value": "~Mach 1.4"         },
+      { "label": "Motor Class",    "value": "M-class solid"      },
+      { "label": "Construction",   "value": "Full fiberglass"    }
+    ],
+    "cadLink": {
+  "label": "View RK! CAD Model",
+  "url": "https://a360.co/4kkyFX4"
 }
 }
 ]
