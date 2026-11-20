@@ -3,8 +3,8 @@
   "aircraft": [
     {
       "name": "Aeroscout S 2 1.1m",
-      "status": "active",
-      "statusLabel": "Active",
+      "status": "crashed",
+      "statusLabel": "Crashed",
       "description": "The first official trainer plane used by the club to help participants learn how to fly — a stable, beginner-friendly platform for building fundamental RC piloting skills.",
       "image": "assets/images/aviation/aeroscout-field.png",
       "meta": [
