@@ -14,7 +14,7 @@
     "flightData": [
       {
         "label": "I500 · Nov 2025",
-        "id": "g7-i500",
+        "id": "g7-i500-2024",
         "stats": [
           { "label": "Altitude",       "value": "3,175 ft"              },
           { "label": "Max Velocity",   "value": "576 ft/s"              },
@@ -26,7 +26,7 @@
       },
       {
         "label": "I500 · Nov 2026",
-        "id": "g7-i500#2",
+        "id": "g7-i500-2026",
         "stats": [
           { "label": "Altitude",       "value": "3,242 ft"              },
           { "label": "Max Velocity",   "value": "586 ft/s"              },
@@ -65,7 +65,7 @@
     "name": "Grainger 8",
     "status": "progress",
     "statusLabel": "In Progress",
-    "description": "G8 is a Level 2 rocket designed to fly on mid-to-upper L-class solid motors. The team's first fully fiberglass build. Validating composite construction methods and pushing performance toward Mach 0.8 at approximately 6,500 feet",
+    "description": "G8 is a Level 2 rocket designed to fly on mid-to-upper L-class solid motors. The team's first fully fiberglass build. Validating composite construction methods and pushing performance toward Mach 0.8 at approximately 7,500 feet",
     "designNotes": "Full fiberglass construction: fincan, airframe, AV-bay, and nosecone.",
     "images": [
       "assets/images/rocketry/g8-cad-side2.png",
