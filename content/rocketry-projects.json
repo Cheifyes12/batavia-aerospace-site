@@ -94,9 +94,9 @@
     "description": "RK1 is a Level 3 rocket designed to fly on 75mm L-M motors. Following the G8 build, RK1 utilizes the same footprint with a 75mm motor mount upgrade.",
     "designNotes": "Fully fiberglass, fully redundant, dual sep, dual deploy",
     "images": [
-      "assets/images/rocketry/g8-cad-side2.png",
-      "assets/images/rocketry/g8-cad-iso2.png",
-      "assets/images/rocketry/IMG_4379.jpeg"
+      "assets/images/rocketry/RK1-CAD.png",
+      "assets/images/rocketry/RK1-CAD2.png",
+      "assets/images/rocketry/RK1-OPENROCKET.png"
     ],
     "flightData": [],
     "meta": [
