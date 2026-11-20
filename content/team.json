@@ -17,9 +17,10 @@
     "subrole": "Software Systems Lead",
     "photo": "assets/images/team/matteo-marotta.png"
   },
+  {
     "name": "Garret Krodel",
     "role": "Member",
-    "subrole": null
+    "subrole": null,
     "photo": null
   }
 ]
