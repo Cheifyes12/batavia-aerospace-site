@@ -4,7 +4,7 @@
     "name": "Grainger 7",
     "status": "launched",
     "statusLabel": "Launched",
-    "description": "G7 is a high-power rocket built for both Level 1 and Level 2 flying. It has successfully flown on an Aerotech I500 and later on a J435 for its first Level 2 launch — a versatile platform for testing higher-impulse motors and validating flight performance across certification levels.",
+    "description": "G7 is a high-power rocket built for both Level 1 and Level 2 flying. It has successfully flown on an Aerotech I500 and later on a J435 for its first Level 2 launch, a versatile platform for testing higher-impulse motors.",
     "designNotes": "3D printed fincan, engine mount, shock cord retainer, nosecone, and AV-bay.",
     "images": [
       "assets/images/rocketry/g7-pad-2.png",
@@ -16,10 +16,22 @@
         "label": "I500 · Nov 2025",
         "id": "g7-i500",
         "stats": [
-          { "label": "Altitude",       "value": "3,242 ft"              },
-          { "label": "Max Velocity",   "value": "593 ft/s"              },
+          { "label": "Altitude",       "value": "3,175 ft"              },
+          { "label": "Max Velocity",   "value": "576 ft/s"              },
           { "label": "Time to Apogee", "value": "13.3 s"                },
           { "label": "Flight Time",    "value": "89 s"                  },
+          { "label": "Motor",          "value": "Aerotech I500 (623 Ns)"},
+          { "label": "Thrust-to-Wt",  "value": "15.35:1"               }
+        ]
+      },
+      {
+        "label": "I500 · Nov 2026",
+        "id": "g7-i500",
+        "stats": [
+          { "label": "Altitude",       "value": "3,242 ft"              },
+          { "label": "Max Velocity",   "value": "586 ft/s"              },
+          { "label": "Time to Apogee", "value": "13.4 s"                },
+          { "label": "Flight Time",    "value": "95 s"                  },
           { "label": "Motor",          "value": "Aerotech I500 (623 Ns)"},
           { "label": "Thrust-to-Wt",  "value": "15.35:1"               }
         ]
@@ -53,7 +65,7 @@
     "name": "Grainger 8",
     "status": "progress",
     "statusLabel": "In Progress",
-    "description": "G8 is a Level 2 rocket designed to fly on mid-to-upper L-class solid motors. The team's first fully fiberglass build — validating composite construction methods and pushing performance toward Mach 0.8 at approximately 6,500 feet, paving the way for future high dynamic-pressure vehicles.",
+    "description": "G8 is a Level 2 rocket designed to fly on mid-to-upper L-class solid motors. The team's first fully fiberglass build. Validating composite construction methods and pushing performance toward Mach 0.8 at approximately 6,500 feet",
     "designNotes": "Full fiberglass construction: fincan, airframe, AV-bay, and nosecone.",
     "images": [
       "assets/images/rocketry/g8-cad-side2.png",
@@ -62,13 +74,15 @@
     ],
     "flightData": [],
     "meta": [
-      { "label": "Launch Date",    "value": "March–April 2026"  },
+      { "label": "Launch Date",    "value": "July-August 2027"  },
       { "label": "Location",       "value": "QCRC, Princeton IL"},
-      { "label": "Target Altitude","value": "~6,500 ft"         },
+      { "label": "Target Altitude","value": "~7,500 ft"         },
       { "label": "Peak Speed",     "value": "~Mach 0.8"         },
       { "label": "Motor Class",    "value": "L-class solid"      },
       { "label": "Construction",   "value": "Full fiberglass"    }
     ],
-    "cadLink": null
+    "cadLink": {
+      "label": "View G8 CAD Model",
+      "url": "https://a360.co/4kkyFX4"
   }
 ]
